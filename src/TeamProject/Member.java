@@ -2,9 +2,9 @@ package TeamProject;
 
 public class Member {
 	public void memberInput(){
-		System.out.println("íšŒì›ì •ë³´ ì €ì¥ê¸°ëŠ¥ì…ë‹ˆë‹¤.");
+		System.out.println("È¸¿øÁ¤º¸ ÀúÀå±â´ÉÀÔ´Ï´Ù.");
 }
 	public void memberToTal() {
-		System.out.println("ì´ íšŒì›ìˆ˜ëŠ” OOì…ë‹ˆë‹¤.");
+		System.out.println("ÃÑ È¸¿ø¼ö´Â OOÀÔ´Ï´Ù.");
 	}
 }

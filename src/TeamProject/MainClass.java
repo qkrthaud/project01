@@ -8,8 +8,8 @@ public class MainClass {
 		Member m = new Member();
 		int num;
 		while(true) {
-			System.out.println("1. íšŒì›ê´€ë¦¬ ì´ë™");
-			System.out.println("2. ì´ë²¤íŠ¸ ê´€ë¦¬ ì´ë™:");
+			System.out.println("1. È¸¿ø°ü¸® ÀÌµ¿");
+			System.out.println("2. ÀÌº¥Æ® °ü¸® ÀÌµ¿:");
 			System.out.print(">>> ");
 			num = input.nextInt();
 			
